@@ -1,11 +1,73 @@
 [
   {
     "id": 1,
+    "species": "Tiger",
+    "name": "Lizzie",
+    "dateOfBirth": "02/09/2097"
+  },
+  {
+    "id": 2,
+    "species": "Human",
+    "name": "James",
+    "dateOfBirth": "28/10/2075"
+  },
+  {
+    "id": 3,
+    "species": "Cat",
+    "name": "Liz",
+    "dateOfBirth": "03/03/2092"
+  },
+  {
+    "id": 4,
+    "species": "Human",
+    "name": "Tao",
+    "dateOfBirth": "04/15/2090"
+  },
+  {
+    "id": 5,
+    "species": "Shark",
+    "name": "Max",
+    "dateOfBirth": "10/31/2091"
+  },
+  {
+    "id": 6,
+    "species": "Human",
+    "name": "Anna-Marie",
+    "dateOfBirth": "14/02/2073"
+  },
+  {
+    "id": 7,
+    "species": "Fish",
+    "name": "Kyle",
+    "dateOfBirth": "04/07/2095"
+  },
+  {
+    "id": 8,
+    "species":"Human",
     "name": "Chris",
     "dateOfBirth": "01/01/2085"
   },
   {
+    "id": 9,
+    "species": "Monkey",
+    "name": "Ben",
+    "dateOfBirth": "17/05/2094"
+  },
+  {
+    "id": 10,
+    "species": "Human",
+    "name": "Joe",
+    "dateOfBirth": "15/01/2080"
+  },
+  {
+    "id": 11,
+    "species": "Dog",
+    "name": "Rover",
+    "dateOfBirth": "05/12/2099"
+  },
+  {
     "id": 12,
+    "species": "AI",
     "name": "IT AI System",
     "dateOfBirth": "10/10/2052"
   }
