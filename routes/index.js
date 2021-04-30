@@ -21,7 +21,8 @@ router.get("/logs", function (req, res, next) {
 
 router.get("/personnel", function (req, res, next) {
   res.json({
-    WARNING: "Stop being greedy. Search for individual personnel only!"
+    WARNING:
+      "Stop being greedy. Search for individual personnel only! e.g the ship's dog is id = 11"
   });
 });
 
