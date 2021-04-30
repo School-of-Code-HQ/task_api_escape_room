@@ -6,7 +6,7 @@ Our spaceship needs to leave Earth... pronto. The only problem is that we can't 
 
 Use the following endpoint URL:
 
-http://localhost:3000/ <!-- TODO: CHANGE TO HOSTED ONE w/ /api/ -->
+http://localhost:3000/api <!-- TODO: CHANGE TO HOSTED ONE w/ /api/ -->
 
 ### GET request to /logs
 

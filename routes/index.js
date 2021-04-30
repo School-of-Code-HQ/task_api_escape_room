@@ -33,9 +33,9 @@ router.get("/personnel/:id", function (req, res, next) {
 
 router.get("/messages", function (req, res, next) {
   const { to } = req.query;
-  if (to !== "undefined") {
+  if (typeof to !== "undefined") {
     console.log(to);
-    return res.json(messages.filter((p) => p.to === Number(to)));
+    return res.json(messages.filter((m) => m.to === Number(to)));
   }
   res.json({
     WARNING:
