@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Escape Planet Earth</title>
+  </head>
+  <body>
+    <h1 id="mission-to-mars">Mission to Mars</h1>
+    <p>
+      Our spaceship needs to leave Earth... pronto. The only problem is that we
+      can&#39;t figure out the launch codes for the ship - can you help us? Use
+      the fetch protocol you learned at the academy to navigate through the
+      information, and refer to the information in this manual.
+    </p>
+    <h2 id="training-documentation-for-new-mission-recruits-">
+      Training documentation for new mission recruits:
+    </h2>
+    <p>Use the following endpoint URL:</p>
+    <p>
+      <a href="https://task-escape-api.herokuapp.com/"
+        >https://task-escape-api.herokuapp.com/</a
+      >
+      <!-- TODO: CHANGE TO HOSTED ONE w/ /api/ -->
+    </p>
+    <h3 id="get-request-to-logs">GET request to /logs</h3>
+    <p>Returns a list of all the logs.</p>
+    <h3 id="get-request-to-personnel-id">GET request to /personnel/:id</h3>
+    <p>
+      Returns the relevent personnel record matching the id passed in as a path
+      parameter.
+    </p>
+    <h3 id="get-request-to-messages">GET request to /messages</h3>
+    <p>This endpoint accepts the following query parameter:</p>
+    <ul>
+      <li>
+        <code>to</code> - searches using which personnel id sent the message;
+        returns all messages sent by the relevant person
+      </li>
+    </ul>
+    <h3 id="get-request-to-hint">GET request to /hint</h3>
+    <p>Returns pertinent information about sending the correct code.</p>
+    <h3 id="post-request-to-codes">POST request to /codes</h3>
+    <p>
+      Accepts a JSON object in the body of the request with the correct
+      property:
+    </p>
+    <pre><code class="lang-js">{
+    <span class="hljs-attr">"enter"</span>: <span class="hljs-string">"codehere"</span>
+}
+</code></pre>
+  </body>
+</html>
