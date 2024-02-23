@@ -10,6 +10,14 @@ Use the fetch protocol you learned at the academy to interact with our mission A
 
 You'll need to run this project using the ancient tecnology [Node.JS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs). You can either install Node.JS (called Node for short) [directly](https://nodejs.org/en/download) or using a package manage like [nvm](https://nodejs.org/en/download/package-manager#nvm) or [nvs](https://nodejs.org/en/download/package-manager#nvs).
 
+## Important Instruction
+
+Do not, under any circumstances, look through these files until AFTER you've finished the challenge! It will mean you don't learn much and don't need to engage well with the problem if you sneak a peek.
+
+Do you promise no to?
+
+Ok, I believe you!
+
 ## Setting up the server
 
 Clone down this project, and run it by following these steps:
