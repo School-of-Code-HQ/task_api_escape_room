@@ -14,7 +14,7 @@ You'll need to run this project using the ancient tecnology [Node.JS](https://no
 
 Do not, under any circumstances, look through these files until AFTER you've finished the challenge! It will mean you don't learn much and don't need to engage well with the problem if you sneak a peek.
 
-Do you promise no to?
+Do you promise not to?
 
 Ok, I believe you!
 
