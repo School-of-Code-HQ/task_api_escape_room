@@ -26,7 +26,7 @@ Ok, I believe you! 😊
 
 ## Setting up the server
 
-To run this project, use a server like LiveServer to launch the `index.html` file. This will allow you to make requests to the API. If you haven't got this installed, you can use the School of Code Extension Pack in VSCode to install it.
+To run this project, use a server like LiveServer to launch the `index.html` file. This will allow you to make requests to the API. If you haven't got this installed, you can use the [School of Code Extension Pack](https://marketplace.visualstudio.com/items?itemName=sochq.school-of-code-bootcamp-extensions) in VSCode to install it.
 
 Your code should go in the `launch-sequence.js` file.
 
