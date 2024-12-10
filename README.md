@@ -28,6 +28,8 @@ Ok, I believe you! 😊
 
 To run this project, use a server like LiveServer to launch the `index.html` file. This will allow you to make requests to the API. If you haven't got this installed, you can use the School of Code Extension Pack in VSCode to install it.
 
+Your code should go in the `launch-sequence.js` file.
+
 To make a call to the API, use `fetch` to the base url `/api` and add to it to reach the relevant endpoint.
 
 Good luck cadet!
